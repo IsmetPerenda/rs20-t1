@@ -1,0 +1,9 @@
+#helloWorld{
+    -fx-font-family: Arial;
+    -fx-font-size: 32px;
+    -fx-font-style: italic;
+
+}
+#pane{
+    -fx-background-color: lightblue;
+}
